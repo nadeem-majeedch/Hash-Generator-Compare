@@ -1,4 +1,4 @@
- 🔒 Hash Generator & File Comparator
+# 🔒 Hash Generator & File Comparator
 
 ## 🧭 Overview
 The **Hash Generator & File Comparator** is a Python application that allows users to:
