@@ -60,30 +60,34 @@ Hash-Generator-Compare/
 ```bash
 git clone https://github.com/<your-username>/Hash-Generator-Compare.git
 cd Hash-Generator-Compare
-
+```
 
 ## Create a Virtual Environment (Recommended)
+```bash
 python -m venv venv
 venv\Scripts\activate     # On Windows
 source venv/bin/activate  # On macOS/Linux
-
+```
 ## Install Dependencies
-
+```
+pip install -r requirements.txt
+```
 ## Usage
 ### 🖥️ Run GUI (Dark Mode)
+```
 python advanced_hash_generator_dark.py
-
+```
 ### 💻 Run Console Version
 
 ### Hash a String or File:
-
+```
 python hash_generator.py
-
+```
 
 ### Compare Two Files:
-
+```
 python file_compare.py
-
+```
 
 
 💡 How It Works
@@ -132,6 +136,7 @@ Add progress bar for large file hashing
 🧑‍💻 Author
 
 Developed by: Dr. Nadeem Majeed
+
 📧 nadeem.majeed@pucit.edu.pk
 
 🌐 GitHub Profile
@@ -141,6 +146,7 @@ Developed by: Dr. Nadeem Majeed
 This project is licensed under the MIT License.
 You’re free to use, modify, and distribute this software with proper attribution.
 
-### ⭐ If you like this project, please star ⭐ the repository!
+**⭐ If you like this project, please star ⭐ the repository!**
+
 
 Your feedback helps make open-source projects better 💙
