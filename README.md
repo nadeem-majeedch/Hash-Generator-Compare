@@ -164,14 +164,6 @@ You’re free to use, modify, and distribute this software with proper attributi
 ⭐ If you like this project, please star the repository!
 Your feedback helps improve open-source tools like this 💙
 
-yaml
-Copy code
-
----
-
-## 🧾 **requirements.txt (Copy & Paste Version)**
-
-```txt
 # Python Standard Library Modules
 hashlib
 os
