@@ -140,3 +140,7 @@ Developed by: Dr. Nadeem Majeed
 
 This project is licensed under the MIT License.
 You’re free to use, modify, and distribute this software with proper attribution.
+
+### ⭐ If you like this project, please star ⭐ the repository!
+
+Your feedback helps make open-source projects better 💙
