@@ -153,8 +153,8 @@ Add checksum verification feature for downloaded files
 Option to compare multiple files at once
 
 🧑‍💻 Author
-Developed by: [Your Name]
-📧 youremail@example.com
+Developed by: Dr. Muhammad Nadeem Majeed
+📧 nadeem.majeed@pucit.edu.pk
 🌐 GitHub Profile
 
 🪪 License
