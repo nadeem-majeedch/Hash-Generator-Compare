@@ -38,7 +38,7 @@ This project is designed for **students, developers, and cybersecurity enthusias
 ---
 
 ## 🏗️ Project Structure
-
+```
 Hash-Generator-Compare/
 │
 ├── advanced_hash_generator_dark.py # Main Dark Mode GUI app
@@ -51,7 +51,7 @@ Hash-Generator-Compare/
 ├── hash.ico # Optional app icon
 └── hash_generator.log # Log file (auto-generated)
 
-
+```
 ---
 
 ## 🧩 Installation (Python Version)
